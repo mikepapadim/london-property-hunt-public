@@ -1,0 +1,23 @@
+# Personal config — never commit
+config.md
+
+# Generated outputs — personal data
+outreach/*.txt
+*.xlsx
+*.xlsm
+*.csv
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
